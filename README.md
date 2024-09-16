@@ -2,7 +2,7 @@ Git là gì và tại sao phải dùng Git
 
 1. Git là gì?
 
-Git là một hệ thống quản lý phiên bản phân tán (Distributed Version Control System), được phát triển bởi Linus Torvalds vào năm 2005. Git giúp người dùng theo dõi các thay đổi trong mã nguồn của dự án và phối hợp làm việc hiệu quả giữa các thành viên trong nhóm.
+   Git là một hệ thống quản lý phiên bản phân tán (Distributed Version Control System), được phát triển bởi Linus Torvalds vào năm 2005. Git giúp người dùng theo dõi các thay đổi trong mã nguồn của dự án và phối hợp làm việc hiệu quả giữa các thành viên trong nhóm.
 
 2. Tại sao phải dùng Git?
 
